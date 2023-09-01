@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JahnJahn123
-- 👀 I’m interested in engineering and food
-- 🌱 I’m currently learning in high school
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  food
+- 🌱 I’m currently learning 
+-  💞️ I’m looking to collaborate 
 - 📫 You can reach me whenever you need.
 
 <!---
